@@ -1,0 +1,6 @@
+{
+  "name": "Caffè Pascucci",
+  "description": "تجربة تفاعلية فاخرة لكافيه بسكوتشي الإيطالي، تستعرض تاريخه العريق، قهوته العضوية، مشروباته المبتكرة، وقائمة الأطعمة والمشروبات الحرفية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
